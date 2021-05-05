@@ -3,7 +3,7 @@
 		<ul class="ulContainer">
             <div class="aaue">
                 <img src="" alt="">
-                <p>Cada um de vós é AAUE. Cada um de vós representa a AAUE. A AAUE é isto, estudantes que trabalham, lutam e dão a cara. A AAUE é quem tenta encontrar a melhor solução para a maioria dos estudantes</p> 
+                <p>O NEEI tem como objectivo apoiar os alunos do departamento de informática da Universidade de Évora, tanto a nivel escolar, como a nivel professional.</p> 
             </div>
             <div class="pages">
                 <ul class="ulPages">
@@ -11,9 +11,6 @@
                     <li><router-link class="navLinks" :to="{ name: 'Home' }">Notícias</router-link></li>
                     <li><router-link class="navLinks" :to="{ name: 'Home' }">Discursos</router-link></li>
                     <li><router-link class="navLinks" :to="{ name: 'Home' }">Eventos</router-link></li>
-                    <li><router-link class="navLinks" :to="{ name: 'Home' }">Associação</router-link></li>
-                    <li><router-link class="navLinks" :to="{ name: 'Home' }">Serviços</router-link></li>
-                    <li><router-link class="navLinks" :to="{ name: 'Home' }">Contactos</router-link></li>
                 </ul>
             </div>
             <div class="contactInfo">
@@ -21,59 +18,35 @@
                 <li>
                     <a href="https://goo.gl/maps/hMu13iR5NiM2">
                     <i class="fas fa-map-marker-alt icon" aria-hidden="true"></i>
-                    <p>Rua Diogo Cão nº 21 <br> 7000-872 Évora</p>
+                    <p>Romão Ramalho, nº59 <br>7000-671 Évora, Portugal</p>
                     </a>
                     
                 </li>
                 <li>
                     <a href="mailto:geral@aaue.pt">
                         <i class="fas fa-envelope icon" aria-hidden="true"></i>
-                        <p>geral@aaue.pt</p>
-                    </a>
-                </li>
-                <li>
-                    <a href="tel:+351266098003">
-                        <i class="fas fa-phone icon" aria-hidden="true"></i>
-                        <p>+ 351 266 09 80 03</p>
+                        <p>iogeral@neei.uevora.pt</p>
                     </a>
                 </li>
             </div>
             <div class="socials">
                 <div class="icons">
                     <li>
-                        <a class="icon" id="alojamento" href="https://alojamento.aaue.pt/" target="_blank">
-                            <i class="fas fa-home"></i>
-                            <p>Portal do Alojamento</p>
-                        </a>
-                    </li>
-                    <li>
-                        <a class="icon" id="reitor" href="http://torneioreitor.aaue.pt/" target="_blank">
-                            <i class="fas fa-futbol"></i>
-                             <p>Torneio do Reitor</p> 
-                        </a>
-                    </li>
-                    <li>
-                        <a class="icon" id="queima" href="http://queima.aaue.pt/" target="_blank">
-                            <i class="fas fa-music"></i>
-                            <p>Queima das Fitas</p> 
-                        </a>
-                    </li>
-                    <li>
-                        <a class="icon" id="facebook" href="https://www.facebook.com/AAUEvora" target="_blank">
+                        <a class="icon" id="facebook" href="hhttps://www.facebook.com/neeiue" target="_blank">
                             <i class="fab fa-facebook-square"></i>
-                             <p>@AAUEvora</p> 
+                             <p>@neeiue</p> 
                         </a>
                     </li>
                     <li>
-                        <a class="icon" id="instagram" href="https://www.instagram.com/aauevora/" target="_blank">
+                        <a class="icon" id="instagram" href="https://www.instagram.com/neeiue/" target="_blank">
                             <i class="fab fa-instagram"></i>
-                             <p>@aauevora</p> 
+                             <p>@neeiue</p> 
                         </a>
                     </li>
 			        <li>
-                        <a class="icon" id="linkedin" href="https://www.linkedin.com/company/associa%C3%A7%C3%A3o-acad%C3%A9mica-da-universidade-de-%C3%A9vora/" target="_blank">
+                        <a class="icon" id="linkedin" href="https://www.linkedin.com/company/neei-ue/" target="_blank">
                             <i class="fab fa-linkedin-in"></i>
-                            <p>LinkedIn</p> 
+                            <p>NEEI-UE</p> 
                         </a>
                     </li>  
                 </div>

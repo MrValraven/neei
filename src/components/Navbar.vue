@@ -4,7 +4,7 @@
     <nav id="nav">
       <div class="logo">
               <router-link class="logoName" to="/">
-                  <p>NeeiUE</p>
+                  <img src="@/assets/logo.png" alt="">
               </router-link>
           </div>
       <ul>
