@@ -16,6 +16,10 @@
 }
 
 body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   overflow-x: hidden;
 }
 
@@ -29,7 +33,7 @@ a {
   cursor: pointer;
 
   &.router-link-exact-active {
-    color: #42b983;
+    color: black;
   }
 }
 </style>
