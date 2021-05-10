@@ -33,10 +33,14 @@ $informaticaBlue: #1935A1;
 
         h2 {
             color: $informaticaBlue;
+            height: 25%;
         }
 
-        i {
-            font-size: 30px;
+        p {
+            -webkit-hyphens: auto;
+            -ms-hyphens: auto;
+            hyphens: auto;
+            height: 50%;
         }
     }
 
