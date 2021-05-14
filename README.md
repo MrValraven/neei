@@ -1,6 +1,6 @@
 # NEEI - Núcleo de Estudantes de Engenharia Informática
 
-![NEEI Landing Page](/assets/banner.jpg)
+![NEEI Landing Page](./src/assets/banner.jpg)
 
 ## Tech Stack
 
