@@ -4,7 +4,10 @@
 
 ## Tech Stack
 
-Vue 3, Javascript / Typescript, ESLint, SCSS (Pre-processor CSS 3)
+* Vue 3, 
+* Javascript / Typescript, 
+* ESLint, 
+* SCSS (Pre-processor CSS 3)
 
 ## Project setup
 ```
