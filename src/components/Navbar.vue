@@ -11,6 +11,7 @@
         <li><router-link class="navLinks activeNavLink" to="/">Home</router-link></li>
         <li><router-link class="navLinks" to="/" @click="scrollToElement(noticias)" >Notícias</router-link></li>
         <li><router-link class="navLinks" to="/" @click="scrollToElement(contactos)" >Contactos</router-link></li>
+        <li><a href="https://drive.google.com/drive/u/2/folders/1D_gu7gswNzIVHXu0OnEK1x3OwLy7sIaF" target="_blank" rel="nooppener">Base de Dados</a></li>
       </ul>
 	</nav>
   </header>

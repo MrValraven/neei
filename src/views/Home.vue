@@ -405,7 +405,7 @@
           <p>Somos uma equipa composta por alunos voluntários que representa e promove o curso a toda a comunidade académica</p>
           <p>Podes-nos encontrar na sala do NEEI ou em qualquer uma das redes sociais!</p>
           <p>Já nao sabia o que fazer aqui mas acho que depois ter um botão que dá para uma pagina da equipa com tudo organizado era fixe! Sessão de brainstorm para a semana no NEEI?</p>
-          <button>Botão Fixe</button>
+          <button class="teamButton"><i class="fas fa-chevron-right"></i></button>
         </div>
       </div>
     </section>
@@ -748,13 +748,35 @@ section {
       border-radius: 6px;
       margin-right: 30px;
       width: 40%
-    
     }
     .text {
       display: flex;
       flex-direction: column;
+      justify-content: end;
       h1 {
         font-size: $h1FontSize;
+      }
+
+      .teamButton {
+        height: 60px;
+        width: 60px;
+        background-color: $informaticaBlue;
+        border: none;
+        border-radius: 50%;
+
+        &:hover {
+          cursor: pointer;
+
+          i {
+            transform: translateX(3px);
+          }
+        }
+
+        i {
+          font-size: 30px;
+          color: $informaticaLightBlue;
+          transition: transform 0.2s cubic-bezier(0.075, 0.82, 0.165, 1);
+        }
       }
     }
   }
@@ -803,6 +825,10 @@ section {
     justify-content: center;
     align-items: center;
 
+    .socials:nth-last-child(2) {
+      border-right: 1px solid #c5c5c5;
+    }
+
     i {
       cursor: pointer;
       font-size: 30px;
@@ -813,10 +839,6 @@ section {
       &:hover {
         color: $informaticaBlue;
       }
-    }
-
-    i:last-child {
-      border-right: 1px solid #c5c5c5;
     }
 
     p {
