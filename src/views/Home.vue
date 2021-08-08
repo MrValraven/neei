@@ -310,7 +310,7 @@
                   z"/><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g>
               </svg>
             </EventCard>
-            <EventCard   titulo="Entreajuda"  descricao="Partilhem as vossas dúvidas e ajudem-se, o curso não se faz sozinho">
+            <EventCard   titulo="Entreajuda"  descricao="Partilha as tuas dúvidas junto dos teus colegas, a humildade e a ajuda é a essência para uma carreira de sucesso">
               <svg version="1.1" id="Layer_1" :width="width" :height="height" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                 viewBox="0 0 508 508" style="enable-background:new 0 0 508 508;" xml:space="preserve">
                 <circle style="fill:#324A5E;" cx="254" cy="254" r="254"/>
@@ -337,7 +337,7 @@
               </svg>
 
             </EventCard>
-            <EventCard  class="thirdEvent" titulo="Ideias"  descricao="Liberta o teu espirito empreendedor e junta-te com os teus colegas para darem vida a um novo projeto">
+            <EventCard  class="thirdEvent" titulo="Ideias"  descricao="Liberta o teu espirito empreendedor e junta-te com os teus colegas para darem vida a novos projetos que podem mudar o mundo">
               <svg version="1.1" :width="width" :height="height" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
               viewBox="0 0 503.19 503.19" style="enable-background:new 0 0 503.19 503.19;" xml:space="preserve">
             <path style="fill:#1E74A5;" d="M458.101,292.8c-4.8-8-19.2-40.8-30.4-66.4c4-14.4,5.6-29.6,5.6-44.8c0-100.8-84-181.6-180-181.6
